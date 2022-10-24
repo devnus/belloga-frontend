@@ -1,0 +1,6 @@
+[submodule "belloga-enterprise-frontend"]
+	path = belloga-enterprise-frontend
+	url = https://github.com/devnus/belloga-enterprise-frontend.git
+[submodule "belloga-mobile"]
+	path = belloga-mobile
+	url = https://github.com/devnus/belloga-mobile
